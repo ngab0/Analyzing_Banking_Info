@@ -1,5 +1,5 @@
 # Analyzing_Banking_Info
 
-In this project, I use matplotlib, seaborn and plotly libraries to explore different facts about banking data.
-I focused on visual data analysis by plotting a variety of graphs, charts, box plots, etc.
+In this notebook, I performed some visual data analysis on banking data
+I used matplotlib, seaborn and plotly libraries to plot the graphs, charts, boxplots, etc.
 Data was collected from 'UCI machine learning repository' website
